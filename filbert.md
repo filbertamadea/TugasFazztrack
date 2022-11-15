@@ -1,5 +1,2 @@
 LINK GOOGLE DRIVE
-https://drive.google.com/file/d/1IMqPJ4uiFH40lPmr7rsFspzip7487Pp9/view?usp=share_link
-
-lINK pdf
-https://drive.google.com/file/d/1iW9S2VjPaQbFJqx8u1zkL3NaXti4lC_i/view?usp=sharing
+https://drive.google.com/drive/folders/1T-0jO28mS_99ZGEpJIvQkS3yxvQP_XnU?usp=share_link

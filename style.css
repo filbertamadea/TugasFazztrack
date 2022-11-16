@@ -1,0 +1,19 @@
+/* tag selector */
+main{
+
+}
+
+/* id selector */
+#LOGO {
+    color: aliceblue;
+}
+
+/* class selector */
+.content {
+    width: 50%;
+}
+
+/* desendant selector */
+.content p {
+    width: 10%;
+}
